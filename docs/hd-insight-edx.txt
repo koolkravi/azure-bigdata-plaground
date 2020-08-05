@@ -1,0 +1,48 @@
+
+
+# EDX- HD Insight
+
+
+## 1. Processing Big Data with Hadoop in Azure HDInsight
+```
+https://www.edx.org/course/processing-big-data-with-hadoop-in-azure-hdinsight
+```
+
+## 2. Processing Big Data with Azure Data Lake Analytics
+```
+https://www.edx.org/course/processing-big-data-with-azure-data-lake-analytics
+```
+
+## 3. Implementing Predictive Analytics with Spark in Azure HDInsight
+```
+https://www.edx.org/course/implementing-predictive-analytics-with-spark-in-az
+```
+
+## 4. Implementing Real-Time Analytics with Hadoop in Azure HDInsight
+```
+https://www.edx.org/course/implementing-real-time-analytics-with-hadoop-in-az
+```
+
+## 5. Developing Big Data Solutions with Azure Machine Learning
+```
+https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l
+```
+
+## 6. Orchestrating Big Data with Azure Data Factory
+```
+https://www.edx.org/course/orchestrating-big-data-with-azure-data-factory
+```
+
+# Azure HDInsight documentation
+```
+https://docs.microsoft.com/en-us/azure/hdinsight/
+```
+
+# Azure HDInsight training resources
+```
+https://azure.microsoft.com/es-es/blog/azure-hdinsight-training-resources-learn-about-big-data-using-open-source-technologies/
+
+
+
+
+```

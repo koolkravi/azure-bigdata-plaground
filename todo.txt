@@ -1,0 +1,90 @@
+# TODO
+
+# Big Data on Azure
+
+## 1. Architect a data platform in Azure - READ
+```
+https://docs.microsoft.com/en-in/learn/paths/architect-data-platform/
+```
+
+## 2.  Advanced Analytics Architecture - READ 
+```
+https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/advanced-analytics-on-big-data
+```
+
+## 3.  Azure HDInsight training resources – Learn about big data using open source technologies
+https://azure.microsoft.com/es-es/blog/azure-hdinsight-training-resources-learn-about-big-data-using-open-source-technologies/
+
+
+## 4. Work with DataFrames in Azure Databricks 
+```
+https://docs.microsoft.com/en-in/learn/modules/work-dataframes-azure-databricks/
+```
+
+## 5. Migrate SQL Workloads to Azure SQL Databases
+
+```
+https://docs.microsoft.com/en-in/learn/modules/migrate-sql-workloads-azure-sql-databases/
+```
+
+## 6. Tutorial: Implement the data lake capture pattern to update a Databricks Delta table - TODO
+```
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-events
+```
+
+## 7. Migrate Azure Data Lake Storage from Gen1 to Gen2
+```
+https://docs.microsoft.com/en-in/azure/storage/blobs/data-lake-storage-migrate-gen1-to-gen2
+```
+
+## 8. Processing Big Data with Azure HDInsight
+```
+https://www.springerprofessional.de/processing-big-data-with-azure-hdinsight/12321336
+```
+
+## 9. Remotely execute a Spark job on an HDInsight cluster
+```
+https://stackoverflow.com/questions/28542415/remotely-execute-a-spark-job-on-an-hdinsight-cluster
+```
+
+## 10. Submit a .NET for Apache Spark job to Azure HDInsight
+```
+https://docs.microsoft.com/en-us/dotnet/spark/how-to-guides/hdinsight-deploy-methods
+```
+
+## 11. Use Apache Spark REST API to submit remote jobs to an HDInsight Spark cluster
+```
+https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-livy-rest-interface
+```
+
+
+# Spark
+
+## 1. https://sparkbyexamples.com/
+## 2. https://www.toptal.com/spark/introduction-to-apache-spark
+## 3. https://spark.apache.org/examples.html
+
+
+# Machin Learning
+
+## 1. https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-machine-learning-mllib-ipython
+
+## 2. Getting Started with Azure Machine Learning service with Visual Studio Code
+```
+https://microsoft.github.io/AzureTipsAndTricks/blog/tip202.html
+```
+
+# Visual studio code and azure devops
+
+## 1. Visual Studio Code and Azure DevOps (formerly VisualStudio.com) Integration Step-by-Step
+```
+https://www.youtube.com/watch?v=P3niOQUNUJQ
+```
+## 2. Quickstart: Use Visual Studio Code to connect and query
+```
+https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode
+```
+## 3. Azure Extensions
+```
+https://code.visualstudio.com/docs/azure/extensions
+```

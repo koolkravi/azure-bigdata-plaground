@@ -1,0 +1,40 @@
+# Azure Microsoft Professional Program in Big Data
+
+## 1.Introduction to Big Data
+
+## 2.Analyze and Visualize Data
+   ### a.Analyzing and Visualizing Data with Power BI
+   ### b.Analyzing and Visualizing Data with Excel
+
+## 3.Work with NoSQL Data
+   ### a.Developing Planet-Scale Applications in Azure Cosmos DB
+   ### b. Introduction to NoSQL Data Solutions
+
+## 4. Query Relational Data
+   ### a. Querying Data with Transact-SQL
+  
+## 5. Create a Data Warehouse
+   ### a. Delivering a Data Warehouse in the Cloud
+
+## 6. Process Big Data at Rest
+   ### a. Processing Big Data with Azure Data Lake Analytics
+   ### b. Processing Big Data with Azure HDInsight
+
+## 7. Process Big Data in Motion
+   ### a. Processing Real-Time Data Streams in Azure
+   ### b. Processing Real-Time Data with Azure HDInsight
+
+## 8. Orchestrate Big Data Solutions
+   ### a. Orchestrating Big Data with Azure Data Factory
+
+## 9. Build Big Data Analysis Solutions
+   ### a. Developing Big Data Solutions with Azure Machine Learning
+   ### b. Analyzing Big Data with Microsoft R
+   ### c. Implementing Predictive Analytics with Spark in Azure HDInsight
+
+## 10. Final Project
+   ###  Microsoft Professional Capstone : Big Data
+
+
+
+

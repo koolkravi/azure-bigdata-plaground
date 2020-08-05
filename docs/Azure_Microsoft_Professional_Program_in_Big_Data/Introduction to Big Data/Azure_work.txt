@@ -1,0 +1,70 @@
+Lab1: Storage
+===================================================================================================
+===================================================================================================
+Extercise 1: Storage accounts
+
+1.RG : 
+name: MY_RG_DEV_TEMP
+
+2. Storage accounts
+name: mystgactdevtemp
+Blob Container Name: bigdata
+
+https://mystgactdevtemp.blob.core.windows.net/bigdata
+https://mystgactdevtemp.blob.core.windows.net/bigdata/products.txt
+
+Extercise 2: ADLS
+====================
+1. ADLS name: myadlsdevtemp
+folder : data
+adl://myadlsdevtemp.azuredatalakestore.net/data 
+
+Lab2: DB
+===================================================================================================
+===================================================================================================
+Exercise 1: Working with Azure SQL Database
+	database Name: AdventureWorksLT
+	Servername : mydbsvrdevtemp
+	server admin login: adminusr
+	password : sddd455g%#444@8Og1
+
+	out:
+	mydbsvrdevtemp.database.windows.net
+	Server admin login : adminusr
+Exercise 2: Loading Data into a Database
+	1. create table name:  SalesLT.ProductReview
+	2. Load Data from a File into the Table (New-> Analytics-> Data Factory)
+	datafactory name: mydfdevtemp
+	Copy Data wizard
+		task name: Load Reviews
+
+
+LAB3:  NOSQL DB
+===================================================================================================
+===================================================================================================
+Exercise 1: Working with a Key-Value Table
+account name: mycosmosdbdevtemp
+table name: Employees
+LAB4:  
+
+===================================================================================================
+===================================================================================================
+Exercise 1: Processing Data with Azure Data Lake Analytics
+	1. New > Analytics > Data Lake Analytics.
+	New Data Lake Analytics name : mydlanlyticsdevtemp 
+	2.Link an Azure Storage Account
+	3.Process Data
+		Azure Data Lake Analytics enables you to process data by writing U-SQL code. U-SQL is similar to Transact-SQL, 
+		but also includes support for C# syntax and data types.
+		
+		wasb://bigdata@mystgactdevtemp/data/products.txt	
+	Job Name :  Process Products
+
+Exercise 2: Processing Data with HDInsight
+Cluster Name :  mysvc001hdis01tempdev
+pwd: sddd455g%#444@8Og1
+
+Process Data using Spark
+
+
+

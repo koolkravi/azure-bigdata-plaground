@@ -1,0 +1,5 @@
+For more information about using Hive from Visual Studio, see Tools for Visual Studio in the Azure documentation at https://azure.microsoft.com.
+
+Download the Microsoft Hive ODBC driver from the Microsoft Download Center at http://www.microsoft.com/en-gb/download/details.aspx?id=40886.
+
+You can download Microsoft Power BI Desktop from https://aka.ms/edx-dat202.1x-pbi.
