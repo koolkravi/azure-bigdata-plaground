@@ -133,6 +133,18 @@ https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-provision-linu
 https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal
 ```
 
+## 22. Tutorial: Use Apache Spark Structured Streaming with Apache Kafka on HDInsight
+```
+https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-kafka-spark-structured-streaming
+```
+
+
+
+
+
+
+
+
 # References
 
 ## 1. Big data architecture style
@@ -201,4 +213,12 @@ https://azure.microsoft.com/en-us/blog/under-the-hood-performance-scale-security
 ## 11. Hadoop vs. HDInsight Architecture
 ```
 https://www.mssqltips.com/sqlservertip/3413/getting-started-with-hdinsight--part-1--introduction-to-hdinsight/
+```
+## 12. Structured Streaming Programming Guide
+```
+https://spark.apache.org/docs/latest/structured-streaming-programming-guide
+```
+## 13.  What is Apache Kafka in Azure HDInsight
+```
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-introduction
 ```
